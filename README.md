@@ -1,7 +1,7 @@
 # C# Web API Project
 
 ## Overview
-This project is a simple ASP.NET Core Web API that provides a weather forecast endpoint. It is designed with best practices including Dependency Injection, Middleware, and CORS support.
+This projecs is a simple ASP.NET Core Web API that provides a weather forecast endpoint. It is designed with best practices including Dependency Injection, Middleware, and CORS support.
 
 ## Features
 - **RESTful API** with structured endpoints.
