@@ -1,0 +1,14 @@
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/ironjoker/Desktop/projects/wipro_dotNET/console_application/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hfxsbJyf9NsJkSt1T5BdQ+R9Fezqh147f2UdBMDaNey1wF4/QE95clXC/xA1X05duGEnip6ndt4I5mwhe+Y5HQ==",
+  "success": true,
+  "projectFilePath": "/home/ironjoker/Desktop/projects/wipro_dotNET/basics_c#/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/home/ironjoker/.nuget/packages/microsoft.aspnetcore.openapi/8.0.5/microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/ironjoker/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
